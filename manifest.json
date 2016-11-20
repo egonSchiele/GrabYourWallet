@@ -1,0 +1,27 @@
+{
+    "name": "GrabYourWallet",
+    "version": "0.1",
+    "manifest_version": 2,
+    "description": "Shows a message if the website you are browsing supports Trump",
+    "browser_action": {
+        "default_icon": "icon_48.png"
+    },
+    "icons": {
+        "128": "icon_128.png",
+        "16": "icon_16.png",
+        "48": "icon_48.png"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [{
+        "matches": [
+            "*://*.amazon.com/*",
+            "*://*.6pm.com/*",
+            "*://*.belk.com/*",
+            "*://*.bloomingdales.com/*"
+        ],
+        "js": ["main.js"],
+        "css": ["style.css"]
+    }]
+}
