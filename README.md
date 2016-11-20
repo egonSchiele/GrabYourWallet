@@ -8,3 +8,4 @@ Don't support retailers who support Trump! Boycott their products.
 
 [It's working!](https://twitter.com/shannoncoulter/status/797509318945828864).
 
+Want to request a new feature? [File a ticket](https://github.com/egonSchiele/GrabYourWallet/issues).
