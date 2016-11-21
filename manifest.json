@@ -16,10 +16,7 @@
     ],
     "content_scripts": [{
         "matches": [
-            "*://*.amazon.com/*",
-            "*://*.6pm.com/*",
-            "*://*.belk.com/*",
-            "*://*.bloomingdales.com/*"
+            "<all_urls>"
         ],
         "js": ["main.js"],
         "css": ["style.css"]

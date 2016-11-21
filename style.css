@@ -1,6 +1,29 @@
 #grab_your_wallet_extension {
     background-color: #FF6666;
     font-family: "Helvetica", "Arial", sans-serif;
-    font-size: 20px;
-    padding: 7px 12px;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    z-index: 999999999;
+}
+
+#grab_your_wallet_extension p {
+    padding: 10px 15px;
+    margin: 0;
+}
+
+.twitter-share-button {
+    background-color: #1b95e0;
+    color: white !important;
+    border-radius: 3px;
+    float: right;
+    font-size: 14px;
+    box-sizing: border-box;
+    padding: 1px 8px 1px 6px;
+    text-decoration: none;
 }
