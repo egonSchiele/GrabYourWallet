@@ -156,7 +156,7 @@ var defaultData = {
 var createElement = function(content) {
     var body = document.getElementsByTagName("body")[0];
     var banner = document.createElement("h1");
-    var tweet_link = '<a target="_blank" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=This extension shows me an alert on websites that support Trump: https://github.com/egonSchiele/GrabYourWallet %23GrabYourWallet">Tweet</a>';
+    var tweet_link = '<a target="_blank" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=This extension shows me an alert on websites that support Trump: https://chrome.google.com/webstore/detail/grabyourwallet/lbnihchacnfpogcnmcilkejghoojnhec Install and share %23GrabYourWallet">Tweet</a>';
     banner.innerHTML = "<p>" + content + " " + tweet_link + "</p>";
     banner.id = "grab_your_wallet_extension";
     body.insertBefore(banner, body.firstChild);

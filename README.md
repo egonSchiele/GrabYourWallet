@@ -6,6 +6,8 @@ This Chrome extension lets you know if a website you are browsing supported Trum
 
 Don't support retailers who support Trump! Boycott their products.
 
+[Install it here](https://chrome.google.com/webstore/detail/grabyourwallet/lbnihchacnfpogcnmcilkejghoojnhec).
+
 ## FAQ
 
 ### Q. Is it working?
