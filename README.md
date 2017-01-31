@@ -16,7 +16,7 @@ Don't support retailers who support Trump! Boycott their products.
 
 ### Q. Where is this data coming from?
 
-[Here's the full list of retailers, with sources](https://docs.google.com/spreadsheets/d/1vu0Y0HvadMgG_LN7dF8W7M66oPCcx_nmSARQWirV7iY/htmlview?usp=drivesdk&sle=true#).
+[Here's the full list of retailers, with sources](https://grabyourwallet.org/).
 
 ### Q. How can I help?
 
