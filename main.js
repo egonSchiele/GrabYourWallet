@@ -20,8 +20,14 @@ var allData = {
     ".*\.bonton.com.*": {
         email: ["ir@bonton.com"]
     },
+    ".*\.build.com.*": {
+        email: ["pr@build.com"]
+    },
     ".*\.burlingtoncoatfactory.com.*": {
         email: ["ClareB@mbooth.com"]
+    },
+    ".*\.buybuybaby.com.*": {
+        email: ["public.relations@bedbath.com"]
     },
     ".*\.carsons.com.*": {},
     ".*\.c21stores.com.*": {
@@ -33,6 +39,12 @@ var allData = {
     ".*\.dsw.com.*": {
         email: ["MediaRelations@dswinc.com"]
     },
+    ".*\.elder-beerman.com.*": {},
+    ".*\.filenesbasement.com.*": {},
+    ".*\.gilt.com.*": {
+        email: ["press@gilt.com"]
+    },
+    ".*\.heels.com.*": {},
     ".*\.thebay.com.*": {
         email: ["tiffany.bourre@hbc.com", "michelle.veilleux@hbc.com"]
     },
@@ -64,6 +76,9 @@ var allData = {
     },
     ".*\.perfumania.com.*": {
         email: ["perf@jcir.com"]
+    },
+    ".*\.rossstores.com.*": {
+        email: ["investor.relations1@ros.com"]
     },
     ".*\.scionhotels.com.*": {
         message: "it is owned by Trump"
@@ -105,6 +120,7 @@ var allData = {
         email: ["kgoodale@hiebing.com"],
         message: "its CEO raised funds for Trump"
     },
+    ".*\.breitbart.com.*": {},
     ".*\.forbes.com.*": {
         email: ["mcarbonell@forbes.com"],
         message: "its CEO supports Trump"
