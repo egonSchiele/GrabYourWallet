@@ -1,164 +1,164 @@
 var allData = {
-    ".*\.amazon.com.*": {
+    "amazon.com.*": {
         email: ["amazon-pr@amazon.com", "jeff@amazon.com"]
     },
-    ".*\.6pm.com.*": {
+    "6pm.com.*": {
         email: ["cs@6pm.com", "PR@zappos.com"]
     },
-    ".*\.bedbathandbeyond.com.*": {
+    "bedbathandbeyond.com.*": {
         email: ["public.relations@bedbath.com"]
     },
-    ".*\.belk.com.*": {
+    "belk.com.*": {
         email: ["Jessica_Graham@belk.com"]
     },
-    ".*\.bloomingdales.com.*": {
+    "bloomingdales.com.*": {
         email: ["anne.keating@bloomingdales.com", "julia.austin@bloomingdales.com", "curtis.kelly@bloomingdales.com", "suzy.nager@bloomingdales.com"]
     },
-    ".*\.bluefly.com.*": {
+    "bluefly.com.*": {
         email: ["flyrep@bluefly.com"]
     },
-    ".*\.bonton.com.*": {
+    "bonton.com.*": {
         email: ["ir@bonton.com"]
     },
-    ".*\.build.com.*": {
+    "build.com.*": {
         email: ["pr@build.com"]
     },
-    ".*\.burlingtoncoatfactory.com.*": {
+    "burlingtoncoatfactory.com.*": {
         email: ["ClareB@mbooth.com"]
     },
-    ".*\.buybuybaby.com.*": {
+    "buybuybaby.com.*": {
         email: ["public.relations@bedbath.com"]
     },
-    ".*\.carsons.com.*": {},
-    ".*\.c21stores.com.*": {
+    "carsons.com.*": {},
+    "c21stores.com.*": {
         email: ["Adriana.Infante@rbbpr.com"]
     },
-    ".*\.dillards.com.*": {
+    "dillards.com.*": {
         email: ["julie.bull@dillards.com"]
     },
-    ".*\.dsw.com.*": {
+    "dsw.com.*": {
         email: ["MediaRelations@dswinc.com"]
     },
-    ".*\.elder-beerman.com.*": {},
-    ".*\.filenesbasement.com.*": {},
-    ".*\.gilt.com.*": {
+    "elder-beerman.com.*": {},
+    "filenesbasement.com.*": {},
+    "gilt.com.*": {
         email: ["press@gilt.com"]
     },
-    ".*\.heels.com.*": {},
-    ".*\.thebay.com.*": {
+    "heels.com.*": {},
+    "thebay.com.*": {
         email: ["tiffany.bourre@hbc.com", "michelle.veilleux@hbc.com"]
     },
-    ".*\.hsn.com.*": {},
-    ".*\.jet.com.*": {
+    "hsn.com.*": {},
+    "jet.com.*": {
         email: ["help@jet.com"]
     },
-    ".*\.kushner.com.*": {
+    "kushner.com.*": {
         email: ["james@risaheller.com"],
         message: "owner Jared Kushner led Trump's campaign"
     },
-    ".*\.lordandtaylor.com.*": {
+    "lordandtaylor.com.*": {
         email: ["jenia_molnar@lordandtaylor.com"]
     },
-    ".*\.macys.com.*": {
+    "macys.com.*": {
         email: "holly.thomas@macys.com, julie.striderfukami@macys.com, orlando.veras@macys.com,tracy.davis@macys.com, christine.olver@macys.com, billy.dume@macys.com , melissa.goff@macys.com, juliana.echavarria@macys.com, melody.regalado@macys.com, Nathalie.almonte@macys.com, andrea.schwartz@macys.com, carolyn.ng@macys.com, jacqueline.king@macys.com, emily.workman@macys.com, raegan.gall@macys.com, joy.deinla@macys.com, monica.gubrud@macys.com, martha.gildemontes@macys.com, rosemarie.robles@macys.com, elina.kazan@macys.com , marissa.nicolaescu@macys.com, alyssa.bendetson@macys.com, Mercedes.Diez@macys.com".split(", ")
     },
-    ".*\.marshalls.com.*": {
+    "marshalls.com.*": {
         email: ["Dyana.Buttacavoli@Edelman.com", "brooke.hardington@edelman.com"]
     },
-    ".*\.neimanmarcus.com.*": {
+    "neimanmarcus.com.*": {
         email: ["hillary_stonger@neimanmarcus.com", "Ginger_Reeder@neimanmarcus.com"]
     },
-    ".*\.nordstrom.com.*": {
+    "nordstrom.com.*": {
         email: "NordstromPR@Nordstrom.com, blake.nordstrom@nordstrom.com, erik.nordstrom@nordstrom.com, peter.nordstrom@nordstrom.com, Jamie.nordstrom@nordstrom.com, Geevy.thomas@nordstrom.com".split(", ")
     },
-    ".*\.overstock.com.*": {
+    "overstock.com.*": {
         email: ["pr@overstock.com"]
     },
-    ".*\.perfumania.com.*": {
+    "perfumania.com.*": {
         email: ["perf@jcir.com"]
     },
-    ".*\.rossstores.com.*": {
+    "rossstores.com.*": {
         email: ["investor.relations1@ros.com"]
     },
-    ".*\.scionhotels.com.*": {
+    "scionhotels.com.*": {
         message: "it is owned by Trump"
     },
-    ".*\.saksfifthavenue.com.*": {
+    "saksfifthavenue.com.*": {
         email: ["katie_majeski@s5a.com", "tiffany.bourre@hbc.com"]
     },
-    ".*\.shopstyle.com.*": {
+    "shopstyle.com.*": {
         email: ["pr@popsugar.com"]
     },
-    ".*\.shopstyle.co.uk.*": {
+    "shopstyle.co.uk.*": {
         email: ["pr@popsugar.com"]
     },
-    ".*\.steinmart.com.*": {
+    "steinmart.com.*": {
         email: ["ltasseff@steinmart.com"]
     },
-    ".*\.tjx.*": {
+    "tjx.*": {
         email: ["Dyana.Buttacavoli@Edelman.com", "brooke.hardington@edelman.com"]
     },
-    ".*\.trumpgolf.com.*": {
+    "trumpgolf.com.*": {
         email: ["pressoffice@donaldtrump.com"],
         message: "it is owned by Trump"
     },
-    ".*\.trumphotels.com.*": {
+    "trumphotels.com.*": {
         email: ["pressoffice@donaldtrump.com"],
         message: "it is owned by Trump"
     },
-    ".*\.trumpwinery.com.*": {
+    "trumpwinery.com.*": {
         email: ["pressoffice@donaldtrump.com"],
         message: "it is owned by Trump"
     },
-    ".*\.winners.ca.*": {
+    "winners.ca.*": {
         email: ["elyse_goody@tjxcanada.ca", "susie_nick@tjxcanada.ca", "erin_obrien@tjxcanada.ca"]
     },
-    ".*\.zappos.com.*": {
+    "zappos.com.*": {
         email: ["PR@zappos.com", "ceo@zappos.com"]
     },
-    ".*\.abcsupply.com.*": {
+    "abcsupply.com.*": {
         email: ["kgoodale@hiebing.com"],
         message: "its CEO raised funds for Trump"
     },
-    ".*\.breitbart.com.*": {},
-    ".*\.forbes.com.*": {
+    "breitbart.com.*": {},
+    "forbes.com.*": {
         email: ["mcarbonell@forbes.com"],
         message: "its CEO supports Trump"
     },
-    ".*\.hobbylobby.com.*": {
+    "hobbylobby.com.*": {
         message: "it endorsed Trump"
     },
-    ".*\.lendingtree.com.*": {
+    "lendingtree.com.*": {
         email: ["megan.greuling@lendingtree.com"],
         message: "its CEO Doug Lebda raised funds for Trump SuperPAC"
     },
-    ".*\.millercoors.com.*": {
+    "millercoors.com.*": {
         message: "its CEO raised funds for Trump"
     },
-    ".*\.nascar.com.*": {
+    "nascar.com.*": {
         email: ["rposton@nascar.com", "agiangola@nascar.com", "jhamilton@nascar.com", "tbreaux@nascar.com"],
         message: "its CEO endorsed Trump"
     },
-    ".*\.newbalance.com.*": {
+    "newbalance.com.*": {
         email: ["media.relations@newbalance.com", "mary.lawton@newbalance.com", "amy.dow@newbalance.com", "carrie.garfield@newbalance.com", "caitlin.wholey@newbalance.com", "Kate.Tetirick@newbalance.com"],
         message: "it has expressed public support for Trump"
     },
-    ".*\.nationalenquirer.com.*": {
+    "nationalenquirer.com.*": {
         email: ["NEQcustserv@cdsfulfillment.com"],
         message: "it endorsed Trump"
     },
-    ".*\.people.com.*": {
+    "people.com.*": {
         email: ["editor@people.com"],
         message: "it is normalizing Trump"
     },
-    ".*\.uline.com.*": {
+    "uline.com.*": {
         email: ["customer.service@uline.com"],
         message: "its CEO raised funds for Trump"
     },
-    ".*\.ufc.com.*": {
+    "ufc.com.*": {
         message: "its president endorsed Trump"
     },
-    ".*\.yuengling.com.*": {
+    "yuengling.com.*": {
         email: ["marketing@yuengling.com"],
         message: "its founder endorsed Trump"
     },
@@ -184,7 +184,7 @@ var run = function() {
     var show_banner = false;
     for (var host_regex in allData) {
         if (allData.hasOwnProperty(host_regex)) {
-            if (host.match(host_regex)) {
+            if (host.match("(.*\.)?" + host_regex)) {
                 var show_banner = true;
                 for (var key in allData[host_regex]) {
                     data[key] = allData[host_regex][key];
