@@ -198,13 +198,13 @@ var run = function() {
     }
 
     var msg = ["Don't support this website, " + data.message + "!"];
-    msg.push("<a target='_blank' href='https://docs.google.com/spreadsheets/d/1vu0Y0HvadMgG_LN7dF8W7M66oPCcx_nmSARQWirV7iY/htmlview'>Full details here</a>");
+    msg.push("<a target='_blank' href='https://grabyourwallet.org'>Full details here</a>");
 
     var subject = "Please stop supporting Trump";
     var body = "Hi, I'm a customer of your brand. Unfortunately I'll no longer be able to shop there because you do business with the Trump family. If you were to no longer do so I would consider returning as a customer.";
 
     if (data.email) {
-        msg.push("<a target='_blank' href='mailto: " + data.email.join(",") + "?subject=" + subject + "&body=" + body + "'>Email them</a>");
+        msg.push("<a target='_blank' href=\"mailto:" + data.email.join(",") + "?subject=" + subject + "&body=" + body + "\">Email them</a>");
     }
 
     if (data.alternatives) {
