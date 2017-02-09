@@ -65,9 +65,6 @@ var allData = {
     "neimanmarcus.com.*": {
         email: ["hillary_stonger@neimanmarcus.com", "Ginger_Reeder@neimanmarcus.com"]
     },
-    "nordstrom.com.*": {
-        email: "NordstromPR@Nordstrom.com, blake.nordstrom@nordstrom.com, erik.nordstrom@nordstrom.com, peter.nordstrom@nordstrom.com, Jamie.nordstrom@nordstrom.com, Geevy.thomas@nordstrom.com".split(", ")
-    },
     "overstock.com.*": {
         email: ["pr@overstock.com"]
     },
