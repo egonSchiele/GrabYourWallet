@@ -49,9 +49,6 @@ var allData = {
         email: ["tiffany.bourre@hbc.com", "michelle.veilleux@hbc.com"]
     },
     "hsn.com.*": {},
-    "jet.com.*": {
-        email: ["help@jet.com"]
-    },
     "kushner.com.*": {
         email: ["james@risaheller.com"],
         message: "owner Jared Kushner led Trump's campaign"
