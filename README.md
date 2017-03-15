@@ -1,8 +1,8 @@
 # GrabYourWallet
 
-Update: I have taken this extension off the chrome store after receiving this email from Shannon:
+Update: I have taken this extension off the chrome store after receiving an email from Shannon, the founder of the GrabYourWallet movement. They have created their own plugin that they want people to use instead: https://chrome.google.com/webstore/detail/grabyourwallet-official-p/aejhdceoomopkpcjclpfcjogibhjplcc/related
 
-![](http://s.adit.io/grab_your_wallet_email.png)
+---
 
 ![](https://raw.githubusercontent.com/egonSchiele/GrabYourWallet/master/screenshot.png)
 
