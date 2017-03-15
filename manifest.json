@@ -1,6 +1,6 @@
 {
     "name": "GrabYourWallet",
-    "version": "0.3",
+    "version": "0.4",
     "manifest_version": 2,
     "description": "Shows a message if the website you are browsing supports Trump. Homepage: https://github.com/egonSchiele/GrabYourWallet",
     "browser_action": {
